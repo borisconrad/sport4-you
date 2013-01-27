@@ -192,6 +192,11 @@ a {
   color:#fff;
   text-decoration: none;
 }
+
+.email a {
+  color:#8EB912;
+  text-decoration: none;
+}
 		
 a:active {
   color:#8eb912;
