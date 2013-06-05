@@ -154,6 +154,38 @@ html {
 	width:470px;
 }
 
+#content_left_home {
+	margin-top:250px;
+	float:left;
+	width:470px;
+	min-height:100px;
+	color:#333;
+	font-family:'Arial';
+	font-size:0.85em;
+
+}
+
+#content_left_home p {
+	margin-top: 10px;
+}
+
+#content_right_home {
+	margin-top:250px;
+	float:left;
+	width:470px;
+	color:#333;
+	font-family:'Arial';
+	font-size:0.85em;
+}
+
+#content_right_home p {
+	margin-top: 10px;
+}
+
+.color_home a {
+	color:#8eb912;
+}
+
 #content_left2 {
 	float:left;
 	width:470px;
@@ -523,6 +555,12 @@ a:hover {
 	width:308px;
 	margin-top:170px;
 	margin-left:640px;
+}
+
+#insert_left {
+	margin-left:12px;
+	margin-top:-15px;
+	margin-bottom:-15px;
 }
 
 #content_kriechbaumer p {
